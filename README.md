@@ -24,8 +24,7 @@ new_stream("hestia.speckle.works", "My Stream", "A stream containing a surface")
 
 ```
 
-License
-----
+### License
 
 MIT
 
